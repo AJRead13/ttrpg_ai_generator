@@ -5,6 +5,7 @@ import Container from 'react-bootstrap/Container';
 import prompts from './prompts.json';
 import PromptButton from './PromptButton';
 import LogEntry from './LogEntry';
+import env from "react-dotenv";
 
 const App = () => {
   const [logEntries, setLogEntries] = useState([]);
@@ -48,7 +49,7 @@ const App = () => {
         url: 'https://api.openai.com/v1/chat/completions',
         headers: { 
           'Content-Type': 'application/json', 
-          'Authorization': 'Bearer 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'
+          'Authorization': process.env.OPENAI_API_KEY
         },
         data : data
       };
@@ -103,7 +104,7 @@ const App = () => {
       url: 'https://api.openai.com/v1/chat/completions',
       headers: { 
         'Content-Type': 'application/json', 
-        'Authorization': 'Bearer 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'
+        'Authorization': 'Bearer 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'
       },
       data : data
     };

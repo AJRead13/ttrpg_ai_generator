@@ -1,0 +1,14 @@
+html {
+    background-color: dimgray;
+}
+.btn {
+    background-color: tan;
+    color: black;
+    border: solid 1px black;
+}
+header {
+    background-color: dimgray;
+}
+#root {
+    background-color: dimgray;
+}
