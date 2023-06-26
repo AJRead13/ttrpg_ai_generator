@@ -38,7 +38,7 @@ export const getNewPrompt = async (prompt, keywords = null, elaboration = false,
     url: 'https://api.openai.com/v1/chat/completions',
     headers: { 
       'Content-Type': 'application/json', 
-      'Authorization': 'Bearer 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'
+      'Authorization': 'Bearer ' + process.env.REACT_APP_OPENAI_API_KEY
     },
     data : data
   };
