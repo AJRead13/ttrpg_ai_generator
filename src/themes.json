@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "Medieval Fantasy",
+    "prompts": [
+      "Magic Item",
+      "Town",
+      "NPC",
+      "Village",
+      "Forest",
+      "Dungeon",
+      "Monster",
+      "Treasure",
+      "Quest",
+      "Artifact",
+      "Spell",
+      "Cave",
+      "Riddle",
+      "Ship",
+      "Ruins",
+      "Potion",
+      "Inn",
+      "Mystery",
+      "Weapon",
+      "Armor",
+      "Trap"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Science Fiction",
+    "prompts": [
+      "Space Ship",
+      "Planet",
+      "Solar System",
+      "Alien",
+      "Laser",
+      "Character",
+      "NPC",
+      "Weapon"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "High Fantasy",
+    "prompts": [
+      "Magic Item",
+      "Town",
+      "NPC",
+      "Village",
+      "Forest",
+      "Dungeon",
+      "Monster",
+      "Treasure",
+      "Quest",
+      "Artifact",
+      "Spell",
+      "Cave",
+      "Riddle",
+      "Ship",
+      "Ruins",
+      "Potion",
+      "Inn",
+      "Mystery",
+      "Weapon",
+      "Armor"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Egyptian Mythology",
+    "prompts": [
+      "Magic Item",
+      "Town",
+      "NPC",
+      "Village",
+      "Desert",
+      "Dungeon",
+      "Monster",
+      "Treasure",
+      "Quest",
+      "Artifact",
+      "Spell",
+      "Cave",
+      "Riddle",
+      "Ship",
+      "Ruins",
+      "Potion",
+      "Inn",
+      "Mystery",
+      "Weapon",
+      "Armor",
+      "Trap",
+      "Character"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Grim Dark Future",
+    "prompts": [
+      "Archeotech",
+      "Planet",
+      "Solar System",
+      "NPC",
+      "City",
+      "Hive",
+      "Labyrinth",
+      "Armor",
+      "Weapon",
+      "Warp Power",
+      "Daemon",
+      "Star Ship",
+      "Infection",
+      "Ruins",
+      "Mission",
+      "Cult"
+    ]
+  }
+]
