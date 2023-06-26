@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ttrpg-prompts/static/css/main.b7550bb2.css",
+    "main.js": "/ttrpg-prompts/static/js/main.feaddad6.js",
+    "static/js/787.6f96e932.chunk.js": "/ttrpg-prompts/static/js/787.6f96e932.chunk.js",
+    "index.html": "/ttrpg-prompts/index.html",
+    "main.b7550bb2.css.map": "/ttrpg-prompts/static/css/main.b7550bb2.css.map",
+    "main.feaddad6.js.map": "/ttrpg-prompts/static/js/main.feaddad6.js.map",
+    "787.6f96e932.chunk.js.map": "/ttrpg-prompts/static/js/787.6f96e932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7550bb2.css",
+    "static/js/main.feaddad6.js"
+  ]
+}
